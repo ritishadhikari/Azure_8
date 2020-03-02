@@ -1,0 +1,34 @@
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Service Models:
+
+SaaS - Software as a service. Cloud provider leases applications or softwares which are owned by them to its client.
+
+PaaS - Platform as a Service. No control over the underlying architecture including OS, storage, servers, etc. The cloud provider gives the ability to the customer to deploy customer created apps using 
+programming languages, tools etc that are provided by the cloud provider. 
+
+IAAS - Infrastructure as a Service. It provides virtualized computing resources over the internet. There is no worries about the underlying physical machine. It abstract the user from the
+physical machine. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Deployment Models:
+
+Public Cloud : A service provider makes resources, such as applications and storage available to the general public over the internet. Easy and Inexpensive. 
+
+Private Cloud : Offers hosted service to a limited number of people behind firewall so it minimizes the security concerns. This gives companies direct control over their data. 
+
+Hybrid Cloud : Uses a mix of on-premises, private cloud and third party public cloud services. Helps to leverage the best of both worlds.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Cloud Providers:
+
+Google Cloud Platform, AWS, Microsoft Azure, IBM Cloud, Terremark, DigitalOcean.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Azure Fundamentals:
+
+Microsoft Azure is a growing collection of integrated cloud services which developers and IT professionals use to build, deploy and manage applications through Microsoft's global 
+network of datacentres.
+
